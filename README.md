@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Pianonic/Kuro/blob/main/images/KuroEmptyBackground.png?raw=true" alt="PianoNic's Music Bot" width="300"/>
+</p>
+
+
 # MoodiFy
 
 **MoodiFy** is a customizable wrapper for the Moodle learning platform. It enhances Moodle's core functionality, providing users with an intuitive, flexible, and easy-to-use interface, specifically designed to streamline educational workflows.
