@@ -5,7 +5,7 @@
 
 # MoodiFy
 
-**MoodiFy** is a customizable wrapper for the Moodle learning platform. It enhances Moodle's core functionality, providing users with an intuitive, flexible, and easy-to-use interface, specifically designed to streamline educational workflows.
+**MoodiFy** is a customizable wrapper for the Moodle-Mobile API. It enhances Moodle's core functionality, providing users with an intuitive, flexible, and easy-to-use interface, specifically designed to streamline educational workflows.
 
 ## Features
 
